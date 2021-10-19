@@ -1,0 +1,1656 @@
+@media(max-width:2560px) and (min-width:1441px){
+    .banner-text p {
+        padding-right: 189px;
+        line-height: 27px;
+    }
+}
+@media(max-width:1440px) and (min-width:1200px){
+    .doctor-info ul {
+        width: 34%;
+    }
+    .banner-man img {
+        width: 100%;
+    }
+    .banner-man {
+        width: 43%;
+    }
+    .banner-text p {
+        padding-right: 189px;
+        line-height: 27px;
+    }
+}
+@media(max-width:1399px) and (min-width:1200px){
+    .doctor-info ul {
+        width: 39%;
+    }
+    .element-text p {
+        font-size: 15px;
+    }
+    input {
+        width: 252px;
+    }
+    input:focus ~ .top{
+        width: 252px;
+    } 
+    input:focus ~ .bottom{
+        width: 252px;
+    }   
+    .banner-man img {
+        width: 100%;
+    }
+    .banner-man {
+        width: 43%;
+    }
+}
+@media(max-width:1208px) and (min-width:1200px){
+    .owl-footer .owl-next span {
+        right: -2%;
+    }
+    .owl-footer .owl-prev span {
+        left: -2%;
+    }
+}
+@media(max-width:1199px) and (min-width:992px){
+    .doctor-info ul {
+        width: 44%;
+    }
+    .element-text p {
+        font-size: 12px;
+    }
+    .element-text h4 {
+        margin: 0;
+        font-weight: 700;
+        font-size: 17px;
+    }
+    input {
+        width: 213px;
+        height: 48px;
+    }
+    input:focus ~ .top{
+        width: 213px;
+    } 
+    input:focus ~ .bottom{
+        width: 213px;
+    }   
+    input:focus ~ .right{
+        height: 48px;
+    }
+    input:focus ~ .left{
+        height: 48px;
+    }
+    .banner-text p {
+        padding-right: 66px;
+    }
+    .banner-text h1 {
+        font-size: 36px;
+    }    
+    .banner-text h2 {
+        font-size: 32px;
+    }
+    .banner-man img{
+        width: 100%;
+    }
+    .btn-book {
+        font-size: 15px;
+    }
+    .btn-learn {
+        font-size: 15px;
+    }
+    .starter p {
+        padding-right: 0;
+    }
+    .tooth-details p {
+        font-size: 15px;
+    }
+    .header-part p {
+        padding: 0;
+    }
+    .tooth-details img {
+        width: 15%;
+    }
+    .doctor-info ul li i {
+        font-size: 17px;
+        width: 39px;
+        height: 40px;
+        line-height: 37px;
+    }
+    .doctor-info h4 {
+        margin-top: 23px;
+        font-size: 22px;
+    }
+    .first-carosel{
+
+width: 16%!important;
+
+}
+    .second-carosel{
+        
+width: 22%!important;
+    }
+    .third-carosel{
+        
+width: 11%!important;
+    }
+    .fourth-carosel{
+        
+width: 17%!important;
+    }
+    ::placeholder{
+        font-size: 15px;
+    }
+    input[type='submit'] {
+        width: 79px;
+        height: 48px;
+        font-size: 15px;
+    }
+    .follow ul li a i{
+        font-size: 13px;
+    }   
+    .follow ul {
+        width: 178px;
+    }
+    .follow h4 {
+        font-size: 23px;
+    }
+    .follow ul li {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+    }
+    .profile-text h5 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .profile-text p {
+        font-size: 12px;
+    }
+    .banner-man {
+        width: 42%;
+    }
+    header .logo img {
+        width: 74%;
+    }
+    .service-head img {
+        width: 12%;
+    }
+}
+@media(max-width:1028px) and (min-width:1017px){
+    .banner-text{
+        
+margin-left: 15px;
+        }
+        .banner-text p{
+            
+padding-right: 60px;
+        }
+}
+@media(max-width:1016px) and (min-width:992px){
+    .owl-footer .owl-next span {
+        right: -1%;
+    }
+    .owl-footer .owl-prev span {
+        left: -1%;
+    }
+    .banner-text{
+        
+    margin-left: 29px;
+    }
+    .banner-text p{
+        
+    padding-right: 38px;
+    }
+    
+}
+@media(max-width:991px) and (min-width:768px){
+    .doctor-info ul {
+        width: 40%;
+    }
+    .element-text p {
+    display: none;
+    }
+    .element-text h4 {
+    display: none;
+    }
+    input {
+        width: 345px;
+        height: 50px;
+    }
+    input:focus ~ .top{
+        width: 345px;
+    } 
+    input:focus ~ .bottom{
+        width: 345px;
+    }   
+    input:focus ~ .right{
+        height: 50px;
+    }
+    input:focus ~ .left{
+        height: 50px;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .banner-text p {
+        padding-right: 0;
+        padding: 0px 87px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+    }    
+    .banner-text h2 {
+        font-size: 35px;
+    }
+    .banner-man img{
+        display: none;
+    }
+    .btn-book {
+        font-size: 16px;
+    }
+    .btn-learn {
+        font-size: 16px;
+    }
+    .starter p {
+        padding-right: 0;
+        padding: 0 49px;
+    }
+    .tooth-details p {
+        font-size: 15px;
+    }
+    .header-part p {
+        padding: 0;
+    }
+    .tooth-details img {
+        width: 15%;
+    }
+    .doctor-info ul li i {
+        font-size: 17px;
+        width: 39px;
+        height: 40px;
+        line-height: 37px;
+    }
+    .doctor-info h4 {
+        margin-top: 23px;
+        font-size: 22px;
+    }
+    .first-carosel{
+
+width: 18%!important;
+}
+    .second-carosel{
+        
+width: 24%!important;
+    }
+    .third-carosel{
+        
+width: 12%!important;
+    }
+    .fourth-carosel{
+        
+width: 19%!important;
+    }
+    ::placeholder{
+        font-size: 16px;
+    }
+    input[type='submit'] {
+        width: 86px;
+        height: 50px;
+        font-size: 15px;
+    }
+    .follow ul li a i{
+        font-size: 15px;
+    }   
+    .follow ul {
+        width: 219px;
+    }
+    .follow h4 {
+        font-size: 26px;
+    }
+    .follow ul li {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+    }
+    .profile-text h5 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .profile-text p {
+        font-size: 14px;
+    }
+    .banner-man {
+        width: 42%;
+    }
+    header .logo img {
+        width: 48%;
+    }
+    .fifth-carosel{
+        width: 12%!important;
+    }
+    .appointment-pos{
+        display: none;
+    }
+    .lol{
+        display: inherit;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-2{
+        display: inherit;
+        margin-top: 64px;
+        margin-bottom: 22px;
+    }
+    .right-footer{
+        
+    text-align: center;
+    }
+    .follow{justify-content: center;}
+    .right-footer p {
+        padding: 0 108px;
+    }
+    .center-footer {
+        margin: 114px 0 0px;
+    }
+    .left-footer {
+        margin: 114px 0 0px;
+    }
+    .navbar-light .navbar-toggler {
+        padding: 13px 0;
+    }
+    .welcome-main{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 20px 0;
+        margin: 0;
+    }    
+    .price-heading h4 {
+        font-size: 24px;
+    }
+    .card-body {
+        display: inherit;
+        margin-top: 12px;
+        background: #f69165;
+        color: #fff;
+    }
+    .service-head img {
+        width: 11%;
+    }
+    .center-footer h3 {
+        font-size: 30px;
+    }
+    .right-footer h3 {
+        font-size: 30px;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .doctor-info ul {
+        width: 46%;
+    }
+    .element-text p {
+    display: none;
+    }
+    .element-text h4 {
+    display: none;
+    }
+    input {
+        width: 385px;
+        height: 52px;
+    }
+    input:focus ~ .top{
+        width: 385px;
+    } 
+    input:focus ~ .bottom{
+        width: 385px;
+    }   
+    input:focus ~ .right{
+        height: 52px;
+    }
+    input:focus ~ .left{
+        height: 52px;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .banner-text p {
+        padding-right: 0;
+        padding: 0px 39px;
+    }
+    .banner-text h1 {
+        font-size: 37px;
+    }    
+    .banner-text h2 {
+        font-size: 34px;
+    }
+    .banner-man img{
+        display: none;
+    }
+    .btn-book {
+        font-size: 16px;
+    }
+    .btn-learn {
+        font-size: 16px;
+    }
+    .starter p {
+        padding-right: 0;
+        padding: 0 18px;
+    }
+    .tooth-details p {
+        font-size: 15px;
+    }
+    .header-part p {
+        padding: 0;
+    }
+    .tooth-details img {
+        width: 15%;
+    }
+    .doctor-info ul li i {
+        font-size: 15px;
+        width: 34px;
+        height: 35px;
+        line-height: 32px;
+    }
+    .doctor-info h4 {
+        margin-top: 21px;
+        font-size: 21px;
+    }
+    .first-carosel{
+
+    width: 29%!important;
+    }
+        .second-carosel{
+            
+    width: 41%!important;
+        }
+        .third-carosel{
+            
+    width: 19%!important;
+        }
+        .fourth-carosel{
+            
+    width: 19%!important;
+    }
+    ::placeholder{
+        font-size: 16px;
+    }
+    input[type='submit'] {
+        width: 95px;
+        height: 52px;
+        font-size: 15px;
+    }
+    .follow ul li a i{
+        font-size: 15px;
+    }   
+    .follow ul {
+        width: 219px;
+    }
+    .follow h4 {
+        font-size: 26px;
+    }
+    .follow ul li {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+    }
+    .profile-text h5 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .profile-text p {
+        font-size: 14px;
+    }
+    .banner-man {
+        width: 42%;
+    }
+    header .logo img {
+        width: 52%;
+    }
+    .fifth-carosel{
+        width: 12%!important;
+    }
+    .appointment-pos{
+        display: none;
+    }
+    .lol{
+        display: inherit;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-2{
+        display: inherit;
+        margin-top: 64px;
+        margin-bottom: 22px;
+    }
+    .right-footer{
+    margin: 67px 0 114px;
+    }
+    .follow{}
+    .right-footer p {
+    }
+    .center-footer {
+        margin: 57px 0 0px;
+    }
+    .left-footer {
+        margin: 114px 0 0px;
+    }
+    .navbar-light .navbar-toggler {
+        padding: 13px 0;
+    }
+    .welcome-main{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 20px 0;
+        margin: 0;
+    }    
+    .price-heading h4 {
+        font-size: 24px;
+    }
+    .card-body {
+        display: inherit;
+        margin-top: 12px;
+        background: #f69165;
+        color: #fff;
+    }
+    .service-head img {
+        width: 13%;
+    }
+    .third-price-table{
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 39px;
+    }
+    .price-table:hover {
+        margin-bottom: 10px;
+    }
+    .element i {
+        font-size: 31px;
+    }
+    .service {
+        padding: 32px 25px 27px;
+    }
+    .service-head h5 {
+        font-size: 17px;
+    }
+    .owl-footer .owl-next span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+    }
+    .owl-footer .owl-prev span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+    }
+    .fourth-carosel{
+        display: none!important;
+    }
+    .fifth-carosel{
+        display: none!important;
+    }
+    .mg{
+       display: inherit!important;
+       width: 37%!important;
+    }
+    .gm{
+        display: inherit!important;
+        width: 21%!important;
+    }
+    .a{
+        display: none!important;
+    }
+    .b{
+        display: none!important;
+    }
+    .c{
+        display: none!important;
+    }
+    .carosel-items-2{
+        
+    display: flex;
+            
+    align-items: center;
+            
+    justify-content: space-around;
+    }
+    .carosel-items-4{
+        align-items: center;
+            
+    justify-content: space-around;
+    }
+    .center-footer h3 {
+        font-size: 30px;
+    }
+    .right-footer h3 {
+        font-size: 30px;
+    }
+    
+}
+@media(max-width:575px) and (min-width:0px){
+    .doctor-info ul {
+        width: 36%;
+    }
+    .element-text p {
+    display: none;
+    }
+    .element-text h4 {
+    display: none;
+    }
+    input {
+        width: 297px;
+        height: 52px;
+    }
+    input:focus ~ .top{
+        width: 297px;
+    } 
+    input:focus ~ .bottom{
+        width: 297px;
+    }   
+    input:focus ~ .right{
+        height: 52px;
+    }
+    input:focus ~ .left{
+        height: 52px;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .banner-text p {
+        padding-right: 0;
+        padding: 0px 0px;
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .banner-text h1 {
+        font-size: 31px;
+    }    
+    .banner-text h2 {
+        font-size: 29px;
+    }
+    .banner-man img{
+        display: none;
+    }
+    .btn-book {
+        font-size: 14px;
+    }
+    .btn-learn {
+        font-size: 14px;
+    }
+    .starter p {
+        padding-right: 0;
+        padding: 0 18px;
+    }
+    .tooth-details p {
+        font-size: 15px;
+    }
+    .header-part p {
+        padding: 0;
+    }
+    .tooth-details img {
+        width: 14%;
+    }
+    .doctor-info ul li i {
+        font-size: 18px;
+        width: 42px;
+        height: 43px;
+        line-height: 40px;
+    }
+    .doctor-info h4 {
+        margin-top: 21px;
+        font-size: 21px;
+    }
+    .first-carosel{
+
+    width: 29%!important;
+    }
+        .second-carosel{
+            
+width: 41%!important;
+            
+display: none!important;
+        }
+        .third-carosel{
+            
+width: 19%!important;
+            
+display: none!important;
+        }
+        .fourth-carosel{
+            
+    width: 19%!important;
+    }
+    ::placeholder{
+        font-size: 16px;
+    }
+    input[type='submit'] {
+        width: 89px;
+        height: 52px;
+        font-size: 15px;
+    }
+    .follow ul li a i{
+        font-size: 15px;
+    }   
+    .follow ul {
+        width: 219px;
+    }
+    .follow h4 {
+        font-size: 26px;
+    }
+    .follow ul li {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+    }
+    .profile-text h5 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .profile-text p {
+        font-size: 14px;
+    }
+    .banner-man {
+        width: 42%;
+    }
+    header .logo img {
+        width: 66%;
+    }
+    .fifth-carosel{
+        width: 12%!important;
+    }
+    .appointment-pos{
+        display: none;
+    }
+    .lol{
+        display: inherit;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-2{
+        display: inherit;
+        margin-top: 64px;
+        margin-bottom: 22px;
+        width: 89%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .right-footer{
+    margin: 63px 0 114px;
+    }
+    .follow{}
+    .right-footer p {
+    }
+    .center-footer {
+        margin: 63px 0 0px;
+    }
+    .left-footer {
+        margin: 114px 0 0px;
+    }
+    .navbar-light .navbar-toggler {
+        padding: 13px 0;
+    }
+    .welcome-main{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 8px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 20px 0 14px;
+        margin: 0;
+        font-size: 15px;
+    }    
+    .price-heading h4 {
+        font-size: 24px;
+    }
+    .card-body {
+        display: inherit;
+        margin-top: 12px;
+        background: #f69165;
+        color: #fff;
+    }
+    .service-head img {
+        width: 11%;
+    }
+    .third-price-table{
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 39px;
+    }
+    .price-table:hover {
+        margin-bottom: 10px;
+    }
+    .element i {
+        font-size: 29px;
+    }
+    .service {
+        padding: 32px 25px 27px;
+    }
+    .service-head h5 {
+        font-size: 21px;
+    }
+    
+    .fourth-carosel{
+        display: none!important;
+    }
+    .fifth-carosel{
+        display: none!important;
+    }
+    .mg{
+       display: none!important;
+       width: 37%!important;
+    }
+    .gm{
+        display: none!important;
+        width: 21%!important;
+    }
+    .a{
+        display: none!important;
+    }
+    .b{
+        display: inherit!important;
+    }
+    .c{
+        display: none!important;
+    }
+    .carosel-items-2{
+        
+    display: flex;
+            
+    align-items: center;
+            
+    justify-content: space-around;
+    }
+    .first-price-table{
+
+    margin-bottom: 36px;
+
+    }
+    .carosel-items{
+
+    justify-content: center;
+
+    }
+    .carosel-items-2{
+        display: flex;
+    }
+    .carosel-items-3{
+        display: flex;
+    }
+    .carosel-items-4{
+        display: flex;
+        height: 74px;
+    }
+    .carosel-items-5{
+        display: flex;
+    }
+    .d{
+        display: inherit!important;
+    }
+    .e{
+        display: inherit!important;
+        width: 31%!important;
+    }
+    .f{
+        display: inherit!important;
+        width: 17%!important;
+    }
+    .displaynone{
+        display: none!important;
+    }
+    .center-footer h3 {
+        font-size: 30px;
+    }
+    .right-footer h3 {
+        font-size: 30px;
+    }
+    .owl-next span{
+        display: none;
+    }
+    .owl-prev span{
+        display: none;
+    }
+    .owl-footer .owl-next span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+        right: 0;
+        display: inherit;
+    }
+    .owl-footer .owl-prev span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+        left: 0;
+        display: inherit;
+    }
+    .btn-appo-2 {
+        width: 160px;
+        height: 53px;
+    }
+    .btn-appo-2 h5 {
+        font-size: 16px;
+    } 
+    .profile img {
+        height: 81px;
+    }   
+}
+@media(max-width:375px) and (min-width:0px){
+    .doctor-info ul {
+        width: 40%;
+    }
+    input {
+        width: 248px;
+        height: 52px;
+    }
+    input:focus ~ .top{
+        width: 248px;
+    } 
+    input:focus ~ .bottom{
+        width: 248px;
+    }   
+    input:focus ~ .right{
+        height: 52px;
+    }
+    input:focus ~ .left{
+        height: 52px;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .banner-text p {
+        padding-right: 0;
+        padding: 0px 0px;
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .banner-text h1 {
+        font-size: 27px;
+    }    
+    .banner-text h2 {
+        font-size: 26px;
+    }
+    .banner-man img{
+        display: none;
+    }
+    .btn-book {
+        font-size: 14px;
+    }
+    .btn-learn {
+        font-size: 14px;
+    }
+    .starter p {
+        padding-right: 0;
+        padding: 0px;
+    }
+    .tooth-details p {
+        font-size: 15px;
+    }
+    .header-part p {
+        padding: 0;
+    }
+    .tooth-details img {
+        width: 14%;
+    }
+    .doctor-info ul li i {
+        font-size: 18px;
+        width: 42px;
+        height: 43px;
+        line-height: 40px;
+    }
+    .doctor-info h4 {
+        margin-top: 21px;
+        font-size: 21px;
+    }
+    .first-carosel{
+
+    width: 29%!important;
+    }
+        .second-carosel{
+            
+    width: 41%!important;
+                
+    display: none!important;
+            }
+            .third-carosel{
+                
+    width: 19%!important;
+                
+    display: none!important;
+            }
+        .fourth-carosel{
+            
+    width: 19%!important;
+    }
+    ::placeholder{
+        font-size: 16px;
+    }
+    input[type='submit'] {
+        width: 78px;
+        height: 52px;
+        font-size: 15px;
+    }
+    .follow ul li a i{
+        font-size: 14px;
+    }   
+    .follow ul {
+        width: 208px;
+    }
+    .follow h4 {
+        font-size: 26px;
+    }
+    .follow ul li {
+        width: 36px;
+        height: 36px;
+        line-height: 36px;
+    }
+    .profile-text h5 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .profile-text p {
+        font-size: 14px;
+    }
+    .banner-man {
+        width: 42%;
+    }
+    header .logo img {
+        width: 74%;
+    }
+    .fifth-carosel{
+        width: 12%!important;
+    }
+    .appointment-pos{
+        display: none;
+    }
+    .lol{
+        display: inherit;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-2{
+        display: inherit;
+        margin-top: 64px;
+        margin-bottom: 22px;
+    }
+    .right-footer{
+    margin: 50px 0 114px;
+    }
+    .follow{}
+    .right-footer p {
+    }
+    .center-footer {
+        margin: 56px 0 0px;
+    }
+    .left-footer {
+        margin: 114px 0 0px;
+    }
+    .navbar-light .navbar-toggler {
+        padding: 13px 0;
+    }
+    .welcome-main{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 5px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 20px 0 11px;
+        margin: 0;
+        font-size: 15px;
+    }    
+    .price-heading h4 {
+        font-size: 24px;
+    }
+    .card-body {
+        display: inherit;
+        margin-top: 12px;
+        background: #f69165;
+        color: #fff;
+    }
+    .service-head img {
+        width: 12%;
+    }
+    .third-price-table{
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 39px;
+    }
+    .price-table:hover {
+        margin-bottom: 10px;
+    }
+    .element i {
+        font-size: 29px;
+    }
+    .service {
+        padding: 32px 25px 27px;
+    }
+    .service-head h5 {
+        font-size: 21px;
+    }
+    
+    .fourth-carosel{
+        display: none!important;
+    }
+    .fifth-carosel{
+        display: none!important;
+    }
+    .mg{
+       display: none!important;
+       width: 37%!important;
+    }
+    .gm{
+        display: none!important;
+        width: 21%!important;
+    }
+    .a{
+        display: none!important;
+    }
+    .b{
+        display: inherit!important;
+    }
+    .c{
+        display: none!important;
+    }
+    .carosel-items-2{
+        
+    display: flex;
+            
+    align-items: center;
+            
+    justify-content: space-around;
+    }
+    .first-price-table{
+
+    margin-bottom: 36px;
+
+    }
+    .carosel-items{
+
+    justify-content: center;
+
+    }
+    .carosel-items-2{
+        display: flex;
+    }
+    .carosel-items-3{
+        display: flex;
+    }
+    .carosel-items-4{
+        display: flex;
+        height: 74px;
+    }
+    .carosel-items-5{
+        display: flex;
+    }
+    .d{
+        display: inherit!important;
+    }
+    .e{
+        display: inherit!important;
+        width: 31%!important;
+    }
+    .f{
+        display: inherit!important;
+        width: 17%!important;
+    }
+    .displaynone{
+        display: none!important;
+    }
+    .center-footer h3 {
+        font-size: 30px;
+    }
+    .right-footer h3 {
+        font-size: 30px;
+    }
+    .owl-next span{
+        display: none;
+    }
+    .owl-prev span{
+        display: none;
+    }
+    .owl-footer .owl-next span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+        right: 0;
+        display: inherit;
+    }
+    .owl-footer .owl-prev span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+        left: 0;
+        display: inherit;
+    }
+    .btn-appo-2 {
+        width: 160px;
+        height: 53px;
+    }
+    .btn-appo-2 h5 {
+        font-size: 15px;
+    }   
+    .footer-address h5 {
+        font-size: 16px;
+    } 
+    footer p {
+        font-size: 15px;
+    } 
+    .profile img {
+        height: 81px;
+    }   
+}
+@media(max-width:320px) and (min-width:0px){
+    .doctor-info ul {
+        width: 44%;
+    }
+    input {
+        width: 219px;
+        height: 52px;
+    }
+    input:focus ~ .top{
+        width: 219px;
+    } 
+    input:focus ~ .bottom{
+        width: 219px;
+    }   
+    input:focus ~ .right{
+        height: 52px;
+    }
+    input:focus ~ .left{
+        height: 52px;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .banner-text p {
+        padding-right: 0;
+        padding: 0px 0px;
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .banner-text h1 {
+        font-size: 22px;
+    }    
+    .banner-text h2 {
+        font-size: 22px;
+    }
+    .banner-man img{
+        display: none;
+    }
+    .btn-book {
+        font-size: 14px;
+    }
+    .btn-learn {
+        font-size: 14px;
+    }
+    .starter p {
+        padding-right: 0;
+        padding: 0px;
+    }
+    .tooth-details p {
+        font-size: 15px;
+    }
+    .header-part p {
+        padding: 0;
+    }
+    .tooth-details img {
+        width: 14%;
+    }
+    .doctor-info ul li i {
+        font-size: 17px;
+        width: 40px;
+        height: 41px;
+        line-height: 38px;
+    }
+    .doctor-info h4 {
+        margin-top: 21px;
+        font-size: 21px;
+    }
+    .first-carosel{
+
+width: 32%!important;
+
+}
+        .second-carosel{
+            
+width: 48%!important;
+            
+display: none!important;
+            }
+            .third-carosel{
+                
+width: 23%!important;
+                
+display: none!important;
+            }
+        .fourth-carosel{
+            
+    width: 19%!important;
+    }
+    ::placeholder{
+        font-size: 16px;
+    }
+    input[type='submit'] {
+        width: 73px;
+        height: 52px;
+        font-size: 14px;
+    }
+    .follow ul li a i{
+        font-size: 14px;
+    }   
+    .follow ul {
+        width: 208px;
+    }
+    .follow h4 {
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+    .follow ul li {
+        width: 36px;
+        height: 36px;
+        line-height: 36px;
+    }
+    .profile-text h5 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .profile-text p {
+        font-size: 13px;
+    }
+    .banner-man {
+        width: 42%;
+    }
+    header .logo img {
+        width: 87%;
+    }
+    .fifth-carosel{
+        width: 12%!important;
+    }
+    .appointment-pos{
+        display: none;
+    }
+    .lol{
+        display: inherit;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-2{
+        display: inherit;
+        margin-top: 64px;
+        margin-bottom: 22px;
+    }
+    .right-footer{
+    margin: 50px 0 114px;
+    }
+    .follow{
+    display: block;
+    margin-top: 50px;
+}
+    .right-footer p {
+    }
+    .center-footer {
+        margin: 56px 0 0px;
+    }
+    .left-footer {
+        margin: 114px 0 0px;
+    }
+    .navbar-light .navbar-toggler {
+        padding: 13px 0;
+    }
+    .welcome-main{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 5px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 20px 0 11px;
+        margin: 0;
+        font-size: 15px;
+    }    
+    .price-heading h4 {
+        font-size: 24px;
+    }
+    .card-body {
+        display: inherit;
+        margin-top: 12px;
+        background: #f69165;
+        color: #fff;
+    }
+    .service-head img {
+        width: 12%;
+    }
+    .third-price-table{
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 39px;
+    }
+    .price-table:hover {
+        margin-bottom: 10px;
+    }
+    .element i {
+        font-size: 25px;
+    }
+    .service {
+        padding: 32px 25px 27px;
+    }
+    .service-head h5 {
+        font-size: 21px;
+    }
+    
+    .fourth-carosel{
+        display: none!important;
+    }
+    .fifth-carosel{
+        display: none!important;
+    }
+    .mg{
+       display: none!important;
+       width: 37%!important;
+    }
+    .gm{
+        display: none!important;
+        width: 21%!important;
+    }
+    .a{
+        display: none!important;
+    }
+    .b{
+        display: inherit!important;
+    }
+    .c{
+        display: none!important;
+    }
+    .carosel-items-2{
+        
+    display: flex;
+            
+    align-items: center;
+            
+    justify-content: space-around;
+    }
+    .first-price-table{
+
+    margin-bottom: 36px;
+
+    }
+    .carosel-items{
+
+    justify-content: center;
+
+    }
+    .carosel-items-2{
+        display: flex;
+    }
+    .carosel-items-3{
+        display: flex;
+    }
+    .carosel-items-4{
+        display: flex;
+        height: 74px;
+    }
+    .carosel-items-5{
+        display: flex;
+    }
+    .d{
+        display: inherit!important;
+    }
+    .e{
+        display: inherit!important;
+        width: 39%!important;
+    }
+    .f{
+        display: inherit!important;
+        width: 20%!important;
+    }
+    .displaynone{
+        display: none!important;
+    }
+    .center-footer h3 {
+        font-size: 30px;
+    }
+    .right-footer h3 {
+        font-size: 30px;
+    }
+    .owl-next span{
+        display: none;
+    }
+    .owl-prev span{
+        display: none;
+    }
+    .owl-footer .owl-next span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+        right: 0;
+        display: inherit;
+    }
+    .owl-footer .owl-prev span {
+        height: 34px;
+        line-height: 31px;
+        padding: 0 10px;
+        left: 0;
+        display: inherit;
+    }
+    .btn-appo-2 {
+        width: 160px;
+        height: 53px;
+    }
+    .btn-appo-2 h5 {
+        font-size: 15px;
+    }   
+    .footer-address h5 {
+        font-size: 16px;
+    } 
+    footer p {
+        font-size: 15px;
+    } 
+    .profile img {
+        height: 81px;
+    }   
+    .starter h3 {
+        font-size: 28px;
+    }
+}
+@media(max-height:775px) and (min-height:669px) and (max-width:2560px) and (min-width:1921px){
+    .banner-man img{
+        width: 75%;
+    }
+} 
+@media(max-height:668px) and (min-height:530px) and (max-width:2560px) and (min-width:1921px){
+   .banner-man{
+       width: 22%;
+       left: 59%;
+   }
+} 
+@media(max-height:529px) and (min-height:475px) and (max-width:2560px) and (min-width:1921px){
+   .banner-man{
+       width: 21%;
+       left: 59%;
+   }
+} 
+@media(max-height:474px) and (min-height:0px) and (max-width:2560px) and (min-width:1921px){
+   .banner-man{
+       width: 18%;
+       left: 61%;
+   }
+} 
+@media(max-height:775px) and (min-height:669px) and (max-width:1920px) and (min-width:1441px){
+    .banner-man img{
+        width: 75%;
+    }
+} 
+@media(max-height:668px) and (min-height:530px) and (max-width:1920px) and (min-width:1441px){
+   .banner-man{
+       width: 30%;
+       left: 60%;
+   }
+} 
+@media(max-height:529px) and (min-height:475px) and (max-width:1920px) and (min-width:1441px){
+   .banner-man{
+       width: 28%;
+       left: 62%;
+   }
+} 
+@media(max-height:474px) and (min-height:0px) and (max-width:1920px) and (min-width:1441px){
+   .banner-man{
+       width: 24%;
+       left: 65%;
+   }
+} 
+@media(max-height:730px) and (min-height:669px) and (max-width:1440px) and (min-width:0px){
+     .banner-man img{
+         width: 93%;
+     }
+} 
+@media(max-height:668px) and (min-height:530px) and (max-width:1440px) and (min-width:0px){
+    .banner-man{
+        width: 32%;
+        left: 61%;
+    }
+} 
+@media(max-height:529px) and (min-height:475px) and (max-width:1440px) and (min-width:0px){
+    .banner-man{
+        width: 29%;
+        left: 61%;
+    }
+} 
+@media(max-height:474px) and (min-height:0px) and (max-width:1440px) and (min-width:0px){
+    .banner-man{
+        width: 29%;
+        left: 61%;
+    }
+}
+@media(max-height:730px) and (min-height:669px) and (max-width:1199px) and (min-width:0px){
+    .banner-man img{
+        width: 96%;
+    }
+} 
+@media(max-height:668px) and (min-height:530px) and (max-width:1199px) and (min-width:0px){
+   .banner-man{
+       width: 42%;
+       left: 54%;
+   }
+} 
+@media(max-height:529px) and (min-height:475px) and (max-width:1199px) and (min-width:0px){
+   .banner-man{
+       width: 38%;
+       left: 58%;
+   }
+} 
+@media(max-height:474px) and (min-height:0px) and (max-width:1199px) and (min-width:0px){
+   .banner-man{
+       width: 37%;
+       left: 59%;
+   }
+} 
